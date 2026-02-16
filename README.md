@@ -16,6 +16,15 @@ Colombian Systems & Computer Engineer, currently pursuing the Diplôme d’Ingé
 
 <img src="https://raw.githubusercontent.com/JavierTarazona06/JavierTarazona06/main/metrics.projects.svg" alt="GitHub projects metrics" />
 
+## Tech Stack & Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierTarazona06&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=C9D1D9"
+    alt="Top languages"
+    height="170"
+  />
+</p>
 
 <!--
 **JavierTarazona06/JavierTarazona06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
