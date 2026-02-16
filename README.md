@@ -20,9 +20,22 @@ Colombian Systems & Computer Engineer, currently pursuing the Diplôme d’Ingé
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierTarazona06&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=C9D1D9&cache_seconds=86400"
-    alt="Top languages"
-    height="170"
+    src="https://skillicons.dev/icons?i=cpp,python,opencv,gcp,docker,git&theme=dark"
+    alt="Skill icons"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,react,django,postgres,mongodb&theme=dark"
+    alt="Skill icons"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=arduino,bash,cmake&theme=dark"
+    alt="Skill icons"
   />
 </p>
 
