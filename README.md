@@ -7,7 +7,26 @@
 </div>
 
 ## About Me
-Colombian Systems & Computer Engineer, currently pursuing the Diplôme d’Ingénieur (MSc) at ENSTA | Institut Polytechnique de Paris (Eiffel Excellence Scholarship), focused on AI, ML, and computer vision. My path from Universidad Nacional de Colombia to an exchange at the University of Saskatchewan, Canada built a strong base in algorithms, stochastic modeling, optimization, and software engineering. At Engin A.I (StartUp), I refactored Python code into modular OOP components and improved OpenCV-based road-damage detection with unsupervised clustering, boosting speed and accuracy. I’ve also built video vehicle-speed detection, microservices reservation platforms, and cloud APIs. I value clear, resilient teamwork in multicultural settings (ES/EN/FR/PT).
+
+AI and Computer Vision engineer with a strong foundation in systems engineering and a passion for building real-world intelligent systems.
+
+Currently completing a Master of Science in Engineering (AI track) at ENSTA Paris — Institut Polytechnique de Paris, as an Eiffel Excellence Scholar. I hold a degree in Systems and Computer Engineering from Universidad Nacional de Colombia (top 12 in Latin America, QS 2026) and completed an academic exchange at the University of Saskatchewan.
+
+**My work spans:**
+
+• 3D Self-Supervised Vision - novel view synthesis with curriculum learning, Python/Blender pipelines, and Vision Transformers (ENSTA U2IS research internship)
+
+• NLP & LLMs - local French text correction system using LLMs, spaCy NER guardrails, and LanguageTool pipelines (APEDYS91)
+
+• Computer Vision - road marking detection and trajectory generation with OpenCV (+50% speed, +60% accuracy) and Python refactoring at scale (Engin A.I)
+
+**Tech stack:** Python · PyTorch · OpenCV · Vision Transformers · spaCy · LLMs · GCP · Docker · Django · FastAPI · C++ · SQL/NoSQL
+
+**Honorable Mention** - ICPC National Programming Contest Colombia 2023
+
+**Eiffel Excellence Scholar**
+
+**Languages:** Spanish (native) · English (C1, IELTS) · French (B2, DELF) · Portuguese (basic)
 
 <!--## Current Projects
 
